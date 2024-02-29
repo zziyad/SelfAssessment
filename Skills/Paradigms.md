@@ -20,12 +20,12 @@
   - Multi-paradigm programming u
   - Metaprogramming u
   - Actor model u
-  - Lambda calculus 
-  - Black box 
+  - Lambda calculus + 
+  - Black box +
   - Information hiding
   - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Anemic domain model +
+  - Class composition +
 - OOP basics
   - Constructor u
   - Operator `new`u
